@@ -1,4 +1,4 @@
-# Cryptocurrency market trend Forecasting using Deep Learning
+# Cryptocurrency price movement prediction using Deep Learning
 
 This repository contains data and python source codes for the paper "Cryptocurrency price movement prediction by integrating wavelets with hybrid deep learning systems: Evidence from a large data set and the effect of the Coronavirus disease pandemic".
 
